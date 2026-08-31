@@ -1,0 +1,18 @@
+Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C29936,CL10B105KA8NNNC,Samsung Electro-Mechanics,0603,,1uF ±10% 25V Ceramic Capacitor X7R 0603,yes,20,10,10,0.0216,0.43,https://www.lcsc.com/product-detail/C29936.html
+2,C1705,CL10A475KP8NNNC,Samsung Electro-Mechanics,0603,,4.7uF ±10% 10V Ceramic Capacitor X5R 0603,yes,50,50,50,0.0199,1.0,https://www.lcsc.com/product-detail/C1705.html
+3,C13738,X322516MLB4SI,YXC Crystal Oscillators,SMD3225-4P,,Crystal 16MHz ±10ppm 9pF SMD3225-4P,yes,5,5,5,0.0939,0.47,https://www.lcsc.com/product-detail/C13738.html
+4,C164170,472192001,MOLEX,SMD,,Micro SD card (TF card) Connector and Ejector Hinged Lid Surface Mount,yes,1,1,1,0.7313,0.73,https://www.lcsc.com/product-detail/C164170.html
+5,C2933084,FRC0402F2702TS,FOJAN,0402,,27kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,100,100,0.0019,0.19,https://www.lcsc.com/product-detail/C2933084.html
+6,C2909342,FRC0402F2700TS,FOJAN,0402,,270Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,100,100,0.0025,0.25,https://www.lcsc.com/product-detail/C2909342.html
+7,C1550542,CP2102N-A02-GQFN20,SILICON LABS,QFN-20-EP(3x3),,USB to UART 3Mbps QFN-20-EP(3x3) Controllers RoHS,yes,1,1,1,2.2884,2.29,https://www.lcsc.com/product-detail/C1550542.html
+8,C5656610,ICS-43434,TDK InvenSense,LGA-6(3.5x2.7),,Omnidirectional -26dB 64dB LGA-6(3.5x2.7) Microphones RoHS,yes,1,1,1,4.1262,4.13,https://www.lcsc.com/product-detail/C5656610.html
+9,C94355,STM32F411RET6,ST,LQFP-64(10x10),,ARM Cortex-M4 32 Bit 100MHz LQFP-64(10x10) Microcontrollers RoHS,yes,1,1,1,6.8707,6.87,https://www.lcsc.com/product-detail/C94355.html
+10,C2913198,ESP32-S3-WROOM-1-N8,ESPRESSIF,"SMD,25.5x18mm",,"2.4GHz ESP32-S3 Chip On-board PCB Antenna -98.2dBm SMD,25.5x18mm RF Transceiver Modules and Modems RoHS",yes,1,1,1,4.91,4.91,https://www.lcsc.com/product-detail/C2913198.html
+11,C22365428,AP2112K-1.8TRG1(MS),MSKSEMI,SOT-23-5,,Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-23-5,yes,5,5,5,0.0959,0.48,https://www.lcsc.com/product-detail/C22365428.html
+12,C726001,ICM-20948,TDK InvenSense,QFN-24(3x3),,QFN-24(3x3) IMUs (Inertial Measurement Units) RoHS,yes,1,1,1,18.9576,18.96,https://www.lcsc.com/product-detail/C726001.html
+13,C22469962,TXB0102DCT(LX),lingxingic,TSSOP-8,,"45Mbps 1 2 TSSOP-8 Translators, Level Shifters ",yes,5,5,5,0.2506,1.25,https://www.lcsc.com/product-detail/C22469962.html
+14,C910544,MAX98357AETE+T,MAXIM,TQFN-16-EP(3x3),,2.4mA 2.5V~5.5V 3.2Wx1@4Ω Class D TQFN-16-EP(3x3) Audio Amplifiers RoHS,yes,1,1,1,1.3247,1.32,https://www.lcsc.com/product-detail/C910544.html
+15,C880859,0603N9R0C500CT,Walsin,0603,,9pF 50V Ceramic Capacitor NP0 0603,yes,50,50,50,0.009,0.45,https://www.lcsc.com/product-detail/C880859.html
+16,-,Custom PCB,JLCPCB,-,,Custom printed circuit board,-,5,-,-,1.668,8.34,-
+17,-,Shipping,-,-,,Shipping cost,-,1,-,-,18.0,18.0,-
